@@ -20,6 +20,7 @@ namespace OOP1
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
             Console.WriteLine(product1.ProductName);
+            Console.WriteLine(product2.ProductName);
 
             
 
