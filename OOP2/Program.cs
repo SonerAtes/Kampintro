@@ -22,6 +22,8 @@ namespace OOP2
             musteri2.SirketAdi = "ATEŞ Pazarlama";
             musteri2.VergiNo = "1234567890";
 
+            Console.WriteLine("Id = " + musteri2.Id + "Müşteri No = " + musteri2.MusteriNo + "Şirket Adı = " + musteri2.SirketAdi);
+
 
             //Gerçek Müşteri - Tüzel Müşteri
             //SOLID 
